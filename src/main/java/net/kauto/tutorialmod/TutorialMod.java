@@ -20,7 +20,7 @@ public class TutorialMod
     // Define mod id in a common place for everything to reference
     public static final String MOD_ID = "tutorialmod";
     // Directly reference a slf4j logger
-    private static final Logger LOGGER = LogUtils.getLogger();//test de actualizacion de github
+    private static final Logger LOGGER = LogUtils.getLogger();//test de actualizacion de github que
 
     public TutorialMod(FMLJavaModLoadingContext context)
     {
